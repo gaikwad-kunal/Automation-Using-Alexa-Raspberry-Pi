@@ -42,6 +42,7 @@ Virtual assistants are a software that understands verbal commands and completes
 5. **Test the setup**: Ensure that the custom voice assistance scripts are functioning correctly on your Raspberry Pi. Test voice commands and responses to verify proper functionality.
 6. **Customize and extend**: Explore the possibilities of customization and extension by integrating additional services, creating custom scripts, or connecting external devices.
 
+![image](https://github.com/gaikwad-kunal/Automation-Using-Alexa-Raspberry-Pi/assets/91978760/8bc2e359-8ced-433e-bb91-4f2c0719c1d8)
 ## Usage
 1. Power on the Raspberry Pi and wait for it to boot up.
 2. Initiate the custom voice assistance application.
@@ -49,7 +50,7 @@ Virtual assistants are a software that understands verbal commands and completes
 4. Issue voice commands to interact with the smart speaker and access various functionalities provided by the custom voice assistance.
 5. Explore customization options and extend functionality as desired.
 
-##Advantages
+## Advantages
 * Versatility: Raspberry Pi offers a versatile platform for developing various applications, including voice-enabled smart speakers. Its flexibility allows for customization and integration of different functionalities to suit specific needs.
 
 * Cost-Effectiveness: Raspberry Pi boards are affordable compared to commercial smart speakers. Building a smart speaker prototype with Raspberry Pi can be a cost-effective solution, especially for DIY enthusiasts and hobbyists.
@@ -66,7 +67,6 @@ Virtual assistants are a software that understands verbal commands and completes
 
 * Scalability: Raspberry Pi-based smart speaker prototypes can be scaled up for larger deployments or commercial products with minimal effort. Once the prototype is developed and tested, it can be replicated and deployed across multiple devices, making it suitable for both personal and professional use cases.
 
-![image](https://github.com/gaikwad-kunal/Automation-Using-Alexa-Raspberry-Pi/assets/91978760/8bc2e359-8ced-433e-bb91-4f2c0719c1d8)
 
 ![image](https://github.com/gaikwad-kunal/Automation-Using-Alexa-Raspberry-Pi/assets/91978760/be4740c6-1dcb-4ca6-bc47-25f40457c96e)
 
