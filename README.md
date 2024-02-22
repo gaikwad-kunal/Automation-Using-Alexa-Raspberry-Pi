@@ -1,5 +1,4 @@
-# An Automation Using Alexa Raspberry PiRaspberry Pi
-
+# An Automation Using Alexa Raspberry Pi
 ## Overview
 This project aims to create a voice-enabled smart speaker prototype using Raspberry Pi, integrating custom voice assistance functionalities. The goal is to develop a versatile automation solution that leverages Raspberry Pi's capabilities for voice interaction.
 
